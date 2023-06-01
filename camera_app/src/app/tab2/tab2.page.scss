@@ -1,0 +1,26 @@
+ion-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: #b9b9b9;
+    background-color: black;
+
+  }
+
+.my-background {
+    background-image: url('../../theme/camera.png'); 
+    height: 100%; 
+    width: 100%;   
+    background-size: cover; 
+    background-repeat: no-repeat;  
+    background-attachment: fixed;  
+    position: absolute; 
+  }
+
+
+  .fab-button ion-icon {
+    color: rgb(28, 29, 28);
+    font-size: 20rem;
+    background-color: white ;
+  }
+  
